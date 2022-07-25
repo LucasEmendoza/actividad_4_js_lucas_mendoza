@@ -21,5 +21,22 @@ if ((tipoH == 'A') && (301 <= cantidad)) {
     console.log('El valor total de su pedido es', (parseFloat(cantidad)*220)*0.9, '$',)
 }
 
+if ((tipoH =='AA') && (1 <= cantidad  &&  cantidad <= 100 )) {
+    console.log('El valor total de su pedido es', (parseFloat(cantidad)*250), '$',)
+}
+
+if ((tipoH =='AA') && ( 101 <= cantidad && cantidad <= 200  )) {
+    console.log('El valor total de su pedido es', (parseFloat(cantidad)*250)*0.95, '$',)
+}
+
+if ((tipoH =='AA') && (201<= cantidad  &&  cantidad <= 300 )) {
+    console.log('El valor total de su pedido es', (parseFloat(cantidad)*250)*0.92, '$',)
+}
+if ((tipoH =='AA') && (301 <= cantidad)) {
+    console.log('El valor total de su pedido es', (parseFloat(cantidad)*250)*0.9, '$',)
+}
+
+   
+
 
     
