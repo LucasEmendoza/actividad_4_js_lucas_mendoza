@@ -7,10 +7,10 @@ Este repositorio se realiza con el fin de mostrar de forma practica con ejecicio
 
 ### Temas:
 
-#### Estructuras condicional.
-#### If.
-#### Variables.
-#### Constantes y operadores.
+#### .Estructuras condicional
+#### .If
+#### .Variables
+#### .Constantes y operadores
 
 
 ## Images punto 1 y 2
